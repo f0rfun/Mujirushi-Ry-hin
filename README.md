@@ -1,8 +1,8 @@
 # muji
 
-A new Flutter application.
+My Flutter App
 
-## Getting Started
+## About Flutter
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
